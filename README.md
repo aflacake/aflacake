@@ -2,5 +2,6 @@
 <!-- ini adalah Repositori spesial **aflacake/aflacake**--> 
 
 - Saya adalah pengguna disini yang sedang belajar
-- Tertarik dengan [.html], [.css], [.js]
+- Aku suka gaya huruf Consolas di Word, meskipun tidak rekomendasi disitu, **Notebook lebih cantik!**
+- Tertarik dengan [.html], [.css], [.js] 🌱
 <P> - Selesai - <P></P>
