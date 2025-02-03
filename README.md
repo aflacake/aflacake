@@ -1,10 +1,14 @@
 ### Hai semua! selamat datang di profil Saya di GitHub!
-<img src="https://github.com/aflacake/aflacake/assets/161173839/808a86dd-1036-416f-9217-c862e9dcc082" alt="Welcometocat">
-
 <!-- ini adalah Repositori spesial **aflacake/aflacake**--> 
-Tentangku sederhana bukan seorang anak terlalu pintar dalam berbagai bidang. Mencoba, terlihat bagus! sedangkan ingin dalam hati itu luar biasa. Semua kode dibuat dengan ❤
-- Saya adalah pengguna disini yang sedang belajar chat-bot, analisis, dan web
-- Aku suka gaya huruf Consolas di Word, meskipun tidak rekomendasi disitu. **Notebook lebih polos!**
-- Tertarik dengan <code>.html</code>, <code>.css</code>, <code>.js</code>, aku suka <code>.php</code> kamu bisa melihat proyek repositoriku 🌱
-- Terhubung denganku di media sosial atau internet, lihat daftar di [gist instanku!](https://gist.github.com/aflacake/c847384165ab358d238eaf1acb8d2aa1#kumpulan-tautan)
-<p> - Selesai - </p>
+
+<article>
+<p><img src="https://raw.githubusercontent.com/aflacake/aflacake/main/video-landing.gif" alt="video-landing" width="200" height="200">
+  Tentangku sederhana bukan seorang anak terlalu pintar dalam berbagai bidang. Mencoba, terlihat bagus! sedangkan ingin dalam hati itu luar biasa. Semua kode dibuat dengan ❤
+<ul>
+  <li>Saya adalah pengguna disini yang sedang belajar chat-bot, analisis, dan web</li>
+  <li>Aku suka gaya huruf Consolas di Word, meskipun tidak rekomendasi disitu. <b>Notepad lebih polos!</b></li>
+  <li>Tertarik dengan <code>.html</code>, <code>.css</code>, <code>.js</code>, aku suka <code>.php</code> kamu bisa melihat proyek repositoriku 🌱</li>
+- Selesai -
+</ul>
+Octolanding</p>
+</article>
