@@ -8,7 +8,11 @@
   <li>Saya adalah pengguna disini yang sedang belajar chat-bot, analisis, dan web</li>
   <li>Aku suka gaya huruf Consolas di Word, meskipun tidak rekomendasi disitu. <b>Notepad lebih polos!</b></li>
   <li>Tertarik dengan <code>.html</code>, <code>.css</code>, <code>.js</code>, aku suka <code>.php</code> kamu bisa melihat proyek repositoriku 🌱</li>
-- Selesai -
 </ul>
+
+Luangkan waktu dengan memberikan penghargaan repositoriku terbaik dengan memberi ⭐️, cobalah hasil repo karya terbaikku, dan membangun isu apabila perlu serta jangan ragu!
+
+Selesai
+
 Octolanding</p>
 </article>
