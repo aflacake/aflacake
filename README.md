@@ -1,18 +1,17 @@
-### Hai semua! selamat datang di profil Saya di GitHub!
-<!-- ini adalah Repositori spesial **aflacake/aflacake**--> 
+### Hai semua! selamat datang di profil Saya di GitHub! 
 
-<article>
-<p><img src="https://raw.githubusercontent.com/aflacake/aflacake/main/video-landing.gif" alt="video-landing" width="200" height="200">
-  Tentangku sederhana bukan seorang anak terlalu pintar dalam berbagai bidang. Mencoba, terlihat bagus! sedangkan ingin dalam hati itu luar biasa. Semua kode dibuat dengan ❤
-<ul>
-  <li>Saya adalah pengguna disini yang sedang belajar chat-bot, analisis, dan web</li>
-  <li>Aku suka gaya huruf Consolas di Word, meskipun tidak rekomendasi disitu. <b>Notepad lebih polos!</b></li>
-  <li>Tertarik dengan <code>.html</code>, <code>.css</code>, <code>.js</code>, aku suka <code>.php</code> kamu bisa melihat proyek repositoriku 🌱</li>
-</ul>
+  Tentangku sederhana bukan seorang anak terlalu pintar dalam berbagai bidang. Mencoba, terlihat bagus! sedangkan ingin dalam hati itu luar biasa. Semua kode dibuat dengan ❤.
+  
+  - Saya adalah pengguna disini yang sedang belajar chat-bot, analisis, dan web</li>
+  - Aku suka gaya huruf Consolas di Word, meskipun tidak rekomendasi disitu. <b>Notepad lebih polos!</b></li>
+  - Tertarik dengan <code>.html</code>, <code>.css</code>, <code>.js</code>, aku suka <code>.php</code> kamu bisa melihat proyek repositoriku 🌱
 
-Luangkan waktu dengan memberikan penghargaan repositoriku terbaik dengan memberi ⭐️, cobalah hasil repo karya terbaikku, dan membangun isu apabila perlu serta jangan ragu!
+Karya font-end developerku yang mungkin Anda suka:
 
-Selesai
-
-Octolanding</p>
-</article>
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/aflacake/tasbihcount/second/img/logo-tasbih-count.png" width="50px" height="50px" alt="Tasbih Count" />
+  <img src="https://raw.githubusercontent.com/aflacake/piodrink/main/img/pio.png" width="50px" height="50px" alt="Piodink" />
+  <img src="https://raw.githubusercontent.com/aflacake/flaroti-dialogflow/second/img/donat.png" width="50px" height="50px" alt="Fla Roti - Chatbot ML" />
+  <img src="https://i.imghippo.com/files/nxf1407LTo.jpg" width="50px" height="50px" alt="Miles - Teks Media Social" />
+  <img src="https://raw.githubusercontent.com/aflacake/tanahladang/main/img/logotanahladang.png" width="50px" height="50px" alt="Tanah Ladang" />
+</div>
