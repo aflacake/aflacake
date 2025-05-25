@@ -19,4 +19,5 @@ Karya font-end developerku yang mungkin Anda suka:
 Karya DSLku yang mungkin membantumu dalam hal skripsi atau alur kerja dan peralatan:
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/aflacake/pearl/main/img/Pearl.png" width="50px" height="50px" alt="Pearl" />
+  <img src="https://raw.githubusercontent.com/aflacake/bejana/main/img/Logo%20Bejana%20icon.png" width="50px" height="50px" alt="Bejana" />
 </div>
