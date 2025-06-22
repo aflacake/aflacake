@@ -7,7 +7,6 @@
   - Tertarik dengan `.html`, `.css`, `.js`, sering menggunakan peralatan server-side yaitu Node.js, dan aku suka `.php`. Kamu bisa melihat proyek repositoriku 🌱
 
 Karya font-end developerku yang mungkin Anda suka:
-
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/aflacake/tasbihcount/second/img/logo-tasbih-count.png" width="50px" height="50px" alt="Tasbih Count" />
   <img src="https://raw.githubusercontent.com/aflacake/piodrink/main/img/pio.png" width="50px" height="50px" alt="Piodink" />
@@ -18,6 +17,6 @@ Karya font-end developerku yang mungkin Anda suka:
 
 Karya DSLku yang mungkin membantumu dalam hal skripsi atau alur kerja dan peralatan:
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/aflacake/pearl/main/img/Pearl.png" width="50px" height="50px" alt="Pearl" />
+  <img src="https://raw.githubusercontent.com/aflacake/earl-lang/main/img/Earl.png" width="50px" height="50px" alt="Earl" />
   <img src="https://raw.githubusercontent.com/aflacake/bejana/main/img/Logo%20Bejana%20ikon%20baru.png" width="50px" height="50px" alt="Bejana" />
 </div>
