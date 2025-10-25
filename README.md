@@ -22,7 +22,7 @@ Saya membuat aplikasi-web secara keseluruhan bertemakan **produktivitas**. Seper
 ### DSL
 Karya DSLku yang mungkin membantumu dalam hal skripsi, prosedural, alur kerja, dan peralatan:
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/aflacake/ilyasbat-lang/main/Logo%20IlyasBat.png" width="50px" height="50px" alt="IlyasBat" />
+  <img src="https://raw.githubusercontent.com/aflacake/ilyasbat-lang/main/img/Logo%20IlyasBat%20New.png" width="50px" height="50px" alt="IlyasBat" />
   <img src="https://raw.githubusercontent.com/aflacake/earl-lang/main/img/Earl (1).png" width="50px" height="50px" alt="Earl" />
   <img src="https://raw.githubusercontent.com/aflacake/bejana/main/img/Logo%20Bejana%20ikon%20baru.png" width="50px" height="50px" alt="Bejana" />
 </div>
