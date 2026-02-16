@@ -16,8 +16,10 @@ Saat ini saya masih giat mempelajari front-end, dengan fokus pada pengembangan a
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/aflacake/yosrpg/675f441a6b879d92000c1475e7c5654ff2b4d472/img/logo.png" width="50px" height="50px" alt="YosRPG" />
 </div>
+
 Proyek gim:
 - YosRPG, RPG masih kesemutan dilayar. Gim hanya bisa dijalankan di panggung Windows. Dibangun diatas C++.
+- YosDress, Gim berdandan bukan hanya sekedar berdandan. Gim hanya bisa dijalankan di panggung Windows. Dibangun aiatas C++ dan SFML 3. Kunjungi situs juga: [YosDress](https://myself-play.pages.dev/). Unduh mudah di SourceForge: [YosDress di SourceForge](https://sourceforge.net/projects/yosdress/)
 
 ### DSL
 Karya DSLku yang mungkin membantumu dalam hal skripsi, prosedural, alur kerja, dan peralatan:
